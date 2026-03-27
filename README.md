@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Vinicius!
 
-I'm a 21-year-old Data and AI enthusiast passionate about transforming data into real-world impact.
+I'm a 22-year-old Data and AI enthusiast passionate about transforming data into real-world impact.
 Currently pursuing a **Computer Engineering degree at UFSCar**, I’ve been exploring the fields of **Machine Learning**, **Deep Learning**, and **Data Science** for the past couple of years.
 
 * 🎓 **Computer Engineering student** at UFSCar
